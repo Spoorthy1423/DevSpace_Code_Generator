@@ -32,8 +32,8 @@ DevSpace is a React + Vite application that lets you describe a component and in
 > **Prerequisite:** You need a Google AI Studio API key with access to Gemini Flash models.
 
 ```bash
-git clone https://github.com/Spoorthy1423/DevSpace---Code-Generator.git
-cd DevSpace---Code-Generator/frontend
+git clone https://github.com/Spoorthy1423/DevSpace_Code_Generator.git
+cd DevSpace_Code_Generator/frontend
 npm install
 ```
 
